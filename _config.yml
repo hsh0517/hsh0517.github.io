@@ -32,8 +32,8 @@ url: https://hsh0517.github.io
 github:
   username: hsh0517             # change to your github username
 
-twitter:
-  username: sehyeon0517            # change to your twitter username
+#twitter:
+#  username: username            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
   email: pelino0517@gamil.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/sehyeon0517      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/hsh0517       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -78,10 +78,10 @@ theme_mode: dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://avatars.githubusercontent.com/u/80824477?v=4
+img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: /assets/img/Profile.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
